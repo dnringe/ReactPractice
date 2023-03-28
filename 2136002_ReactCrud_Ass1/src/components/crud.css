@@ -1,0 +1,40 @@
+.fone{
+    text-align: center;
+    width: 30%;
+    padding: 2px;
+
+}
+.done{
+    align-items: center;
+    display: flex;
+    flex-direction:column ;
+    
+}
+.heading{
+    text-align: center;
+    color: red;
+}
+.tone{
+    text-align: center;
+    align-items: center;
+    width: 80%;
+    justify-content: center;
+    
+}
+#tab{
+    padding: 1px;
+    align-items: center;
+    background-color: aliceblue;
+    text-align: center;
+}
+.body{
+    background-color: azure;
+}
+#thead{
+    background-color: orange;
+}
+.main{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(210, 246, 210);
+}
